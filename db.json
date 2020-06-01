@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+export const recipes = [
+    {
+        id: 1,
+        title: 'Veggies es Bonus Vobis',
+        date: 'May 5, 2020',
+        content:
+            'Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard.',
+        recipes: ['vegetarian']
+    },
+    {
+        id: 2,
+        title: 'Gumbo Beet Greens Corn Soko Endive Gumbo',
+        date: 'May 5, 2020',
+        content:
+            ' Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.',
+        recipes: ['vegetarian']
+    },
+    {
+        id: 3,
+        title: 'Porchetta short ribs',
+        date: 'May 12, 2020',
+        content:
+            'Chicken beef prosciutto pig in ullamco. Brisket ground round ham eu lorem rump corned beef aute turkey labore. Filet mignon sausage ball tip ut culpa mollit, pork chop in brisket bacon beef dolore capicola velit. Lorem meatball ut incididunt, kevin consectetur magna bresaola.',
+        recipes: ['meat']
+    }
+]
