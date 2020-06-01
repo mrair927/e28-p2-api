@@ -8,15 +8,15 @@
         "recipeCats": ["vegetarian"]
     },
     {
-        "id:" 2,
+        "id": 2,
         "title": "Gumbo Beet Greens Corn Soko Endive Gumbo",
         "date": "May 5, 2020",
         "content":
             "Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.",
-       "recipeCats":: ["vegetarian"]
+       "recipeCats": ["vegetarian"]
     },
     {
-        "id:" 3,
+        "id": 3,
         "title": "Porchetta short ribs",
         "date": "May 12, 2020",
         "content":
